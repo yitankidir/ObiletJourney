@@ -1,0 +1,15 @@
+C:\Users\YİĞİTHAN\Desktop\Obilet-master\Obilet.Business\obj\Debug\Obilet.Business.csproj.AssemblyReference.cache
+C:\Users\YİĞİTHAN\Desktop\Obilet-master\Obilet.Business\obj\Debug\Obilet.Business.csproj.CoreCompileInputs.cache
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Obilet.Business.dll
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Obilet.Business.pdb
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Ninject.dll
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Obilet.Entities.dll
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Obilet.Entities.pdb
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ObiletJourney\Obilet.Business\bin\Debug\Ninject.xml
+C:\Projects\ObiletJourney\Obilet.Business\obj\Debug\Obilet.Business.csproj.AssemblyReference.cache
+C:\Projects\ObiletJourney\Obilet.Business\obj\Debug\Obilet.Business.csproj.CoreCompileInputs.cache
+C:\Projects\ObiletJourney\Obilet.Business\obj\Debug\Obilet.B.38D7E008.Up2Date
+C:\Projects\ObiletJourney\Obilet.Business\obj\Debug\Obilet.Business.dll
+C:\Projects\ObiletJourney\Obilet.Business\obj\Debug\Obilet.Business.pdb

@@ -1,0 +1,11 @@
+C:\Users\YİĞİTHAN\Desktop\Obilet-master\Obilet.Entities\obj\Debug\Obilet.Entities.csproj.AssemblyReference.cache
+C:\Users\YİĞİTHAN\Desktop\Obilet-master\Obilet.Entities\obj\Debug\Obilet.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\ObiletJourney\Obilet.Entities\bin\Debug\Obilet.Entities.dll
+C:\Projects\ObiletJourney\Obilet.Entities\bin\Debug\Obilet.Entities.pdb
+C:\Projects\ObiletJourney\Obilet.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ObiletJourney\Obilet.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ObiletJourney\Obilet.Entities\obj\Debug\Obilet.Entities.csproj.AssemblyReference.cache
+C:\Projects\ObiletJourney\Obilet.Entities\obj\Debug\Obilet.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\ObiletJourney\Obilet.Entities\obj\Debug\Obilet.E.7C8B0FCE.Up2Date
+C:\Projects\ObiletJourney\Obilet.Entities\obj\Debug\Obilet.Entities.dll
+C:\Projects\ObiletJourney\Obilet.Entities\obj\Debug\Obilet.Entities.pdb

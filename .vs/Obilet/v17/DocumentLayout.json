@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ObiletJourney\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|C:\\Projects\\ObiletJourney\\obilet.business\\concrete\\restapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|solutionrelative:obilet.business\\concrete\\restapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|C:\\Projects\\ObiletJourney\\obilet.business\\concrete\\buslocationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|solutionrelative:obilet.business\\concrete\\buslocationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|C:\\Projects\\ObiletJourney\\obilet.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|solutionrelative:obilet.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|c:\\projects\\obiletjourney\\obilet.business\\concrete\\busjourneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|solutionrelative:obilet.business\\concrete\\busjourneymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|C:\\Projects\\ObiletJourney\\obilet.webui\\scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|solutionrelative:obilet.webui\\scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|C:\\Projects\\ObiletJourney\\obilet.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|solutionrelative:obilet.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|C:\\Projects\\ObiletJourney\\obilet.webui\\views\\home\\findjourney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8349F60B-F407-4645-B0B9-7F75F882448C}|Obilet.WebUI\\Obilet.WebUI.csproj|solutionrelative:obilet.webui\\views\\home\\findjourney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|C:\\Projects\\ObiletJourney\\obilet.business\\concrete\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20909475-0A5F-4D9D-8907-88102D4B499C}|Obilet.Business\\Obilet.Business.csproj|solutionrelative:obilet.business\\concrete\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3294CD-09BD-4A72-B79D-590DD8671F50}|Obilet.Entities\\Obilet.Entities.csproj|C:\\Projects\\ObiletJourney\\obilet.entities\\concrete\\session\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3294CD-09BD-4A72-B79D-590DD8671F50}|Obilet.Entities\\Obilet.Entities.csproj|solutionrelative:obilet.entities\\concrete\\session\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Obilet.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Obilet.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvysAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:33:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusLocationManager.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\BusLocationManager.cs",
+              "RelativeDocumentMoniker": "Obilet.Business\\Concrete\\BusLocationManager.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\BusLocationManager.cs",
+              "RelativeToolTip": "Obilet.Business\\Concrete\\BusLocationManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA1wBsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:55:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Scripts\\Index.js",
+              "RelativeDocumentMoniker": "Obilet.WebUI\\Scripts\\Index.js",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Scripts\\Index.js",
+              "RelativeToolTip": "Obilet.WebUI\\Scripts\\Index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-06T07:52:18.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.Entities\\Concrete\\Session\\Session.cs",
+              "RelativeDocumentMoniker": "Obilet.Entities\\Concrete\\Session\\Session.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.Entities\\Concrete\\Session\\Session.cs",
+              "RelativeToolTip": "Obilet.Entities\\Concrete\\Session\\Session.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:46:13.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Obilet.Business\\Concrete\\SessionManager.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\SessionManager.cs",
+              "RelativeToolTip": "Obilet.Business\\Concrete\\SessionManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:43:45.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Obilet.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Obilet.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T14:36:48.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusJourneyManager.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\BusJourneyManager.cs",
+              "RelativeDocumentMoniker": "Obilet.Business\\Concrete\\BusJourneyManager.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\BusJourneyManager.cs",
+              "RelativeToolTip": "Obilet.Business\\Concrete\\BusJourneyManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:38:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestApiManager.cs",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\RestApiManager.cs",
+              "RelativeDocumentMoniker": "Obilet.Business\\Concrete\\RestApiManager.cs",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.Business\\Concrete\\RestApiManager.cs",
+              "RelativeToolTip": "Obilet.Business\\Concrete\\RestApiManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAhwBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:55:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindJourney.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Views\\Home\\FindJourney.cshtml",
+              "RelativeDocumentMoniker": "Obilet.WebUI\\Views\\Home\\FindJourney.cshtml",
+              "ToolTip": "C:\\Projects\\ObiletJourney\\Obilet.WebUI\\Views\\Home\\FindJourney.cshtml",
+              "RelativeToolTip": "Obilet.WebUI\\Views\\Home\\FindJourney.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T07:54:44.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
